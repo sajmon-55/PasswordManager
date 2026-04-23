@@ -1,13 +1,37 @@
-# Simple Password Manager 🔒
+# Password Manager
 
-Projekt stworzony w ramach studiów. Aplikacja służy do bezpiecznego przechowywania haseł lokalnie przy pomocy szyfrowania cezara
+## Security Warning
+Use this software cautiously, as passwords are sensitive information.
 
-### Funkcjonalności:
-- Szyfrowanie haseł przed zapisem.
-- Dodawanie, edycja i usuwanie wpisów.
-- Przechowywanie danych w zabezpieczonym pliku.
+## Installation
+1. Clone the repository: `git clone https://github.com/sajmon-55/PasswordManager`
+2. Install dependencies: `npm install`
 
-### Technologie:
-- Java (OOP)
-- Java Swing
-- File I/O & Encryption basics
+## Usage Instructions
+Run the application using: `node app.js`
+
+## Author
+This project is maintained by sajmon-55.
+
+## License
+This project is licensed under the MIT License.
+
+---
+
+# Menedżer Haseł
+
+## Ostrzeżenie Bezpieczeństwa
+Używaj tego oprogramowania ostrożnie, ponieważ hasła to wrażliwe informacje.
+
+## Instalacja
+1. Sklonuj repozytorium: `git clone https://github.com/sajmon-55/PasswordManager`
+2. Zainstaluj zależności: `npm install`
+
+## Instrukcje Użytkowania
+Uruchom aplikację używając: `node app.js`
+
+## Autor
+Ten projekt jest utrzymywany przez sajmon-55.
+
+## Licencja
+Ten projekt jest licencjonowany na zasadzie Licencji MIT.
