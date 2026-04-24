@@ -1,13 +1,13 @@
 # Simple Password Manager 🔒
 
-Projekt stworzony w ramach studiów. Aplikacja służy do bezpiecznego przechowywania haseł lokalnie przy pomocy szyfrowania cezara
+A university project developed to securely store passwords locally using Caesar cipher encryption. 
 
-### Funkcjonalności:
-- Szyfrowanie haseł przed zapisem.
-- Dodawanie, edycja i usuwanie wpisów.
-- Przechowywanie danych w zabezpieczonym pliku.
+### Features
+- **Password Encryption:** Encrypts passwords automatically before writing them to disk.
+- **Entry Management:** Allows users to easily add, edit, and delete password entries.
+- **Secure Storage:** Safely stores all sensitive data in a local file.
 
-### Technologie:
-- Java (OOP)
-- Java Swing
-- File I/O & Encryption basics
+### Technologies Used
+- **Java:** Core logic and Object-Oriented Programming (OOP) principles.
+- **Java Swing:** Graphical User Interface (GUI) design.
+- **File I/O & Encryption:** File handling and basic cryptography (Caesar cipher).
